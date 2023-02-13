@@ -4,3 +4,5 @@
 
 Я очень люблю путешествовать, поэтому вот одна из моих фотографий с отдыха :vulcan_salute:
 ![This is an image](/images/IMG_E0296.JPG)
+
+theme: cayman
